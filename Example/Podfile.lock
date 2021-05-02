@@ -7,12 +7,12 @@ PODS:
   - RxSwift (6.1.0)
   - RxTest (6.1.0):
     - RxSwift (= 6.1.0)
-  - RxTestExt (0.4.0):
-    - RxTestExt/Core (= 0.4.0)
-    - RxTestExt/Relays (= 0.4.0)
-  - RxTestExt/Core (0.4.0):
+  - RxTestExt (0.4.1):
+    - RxTestExt/Core (= 0.4.1)
+    - RxTestExt/Relays (= 0.4.1)
+  - RxTestExt/Core (0.4.1):
     - RxTest (~> 6.0)
-  - RxTestExt/Relays (0.4.0):
+  - RxTestExt/Relays (0.4.1):
     - RxRelay (~> 6.0)
     - RxTestExt/Core
 
@@ -37,7 +37,7 @@ SPEC CHECKSUMS:
   RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
   RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
   RxTest: 9d26616eaff4a7e75f4ecae9b2c24840f2e8218d
-  RxTestExt: a5bb8d72a857e29867d40c995b22c2a459e62b8f
+  RxTestExt: 380ece1169f369eb451507d33d7e43b2f805d492
 
 PODFILE CHECKSUM: 7ee0c3f4a1a0e5289ba02910613fcf3d0c0523b2
 
